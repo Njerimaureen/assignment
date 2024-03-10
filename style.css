@@ -1,0 +1,40 @@
+
+/* Basic CSS styling for illustration purposes */
+body {
+font-family: Arial, sans-serif;
+margin: 20px;
+
+}
+form {
+max-width: 400px;
+margin: auto;
+}
+label {
+display:block ;
+margin-bottom: 8px;
+}
+
+input,
+select,
+textarea {
+width: 100%;
+padding: 8px;
+margin-bottom: 16px;
+
+}
+
+header, main, aside, footer{
+    padding: 20px;
+    text-align:center ;
+    background-color: grey;
+    colour:white;
+
+}
+
+aside{
+    flex: 1;
+    border-left: 1px solid bisque;
+    background-color: rgb(red, green, blue);
+}
+
+
